@@ -1,1 +1,1 @@
-# thinkphp8_project_manage_software
+# project-manage-software use thinkphp8 + mysql + tabler
